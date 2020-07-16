@@ -15,3 +15,8 @@ Duas variáveis aleatórias foram incluídas no conjunto de dados para testar os
 O objetivo é construir um modelo preditivo que possa prever o consumo de energia com base nos dados de sensores IoT coletados.
 
 Os datasets de treino e de teste estão em anexo.
+
+# TO DO:
+
+- Fazer o teste com outros Algoritmos;
+- Implementar gráfico para acompanhamento da queda do erro durante o Gradient Boosting
