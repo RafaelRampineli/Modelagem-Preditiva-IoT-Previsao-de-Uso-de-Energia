@@ -1,7 +1,5 @@
 # Modelagem-Preditiva-IoT-Previsao-de-Uso-de-Energia
 
-Projeto Final 2 do Curso de Machine Learning da Formação Cientista de Dados fornecido pela Data Science Academy(DSA).
-
 Este projeto de IoT tem como objetivo a criação de modelos preditivos para a previsão de consumo de energia de eletrodomésticos. Os dados utilizados incluem medições de sensores de temperatura e umidade de uma rede sem fio, previsão do tempo de uma estação de um aeroporto e uso de energia utilizada por luminárias.
 
 Nesse projeto de aprendizado de máquina iremos realizar a filtragem de dados para remover parâmetros não-preditivos e selecionar os melhores recursos (melhores features) para previsão. 
